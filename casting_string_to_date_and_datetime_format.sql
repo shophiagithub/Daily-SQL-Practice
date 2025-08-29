@@ -1,0 +1,2 @@
+SELECT CAST('2024-06-06 00:00:00' AS DATE) AS casted_date;
+SELECT CAST('2024-06-06' AS DATETIME) AS casted_date_time;
